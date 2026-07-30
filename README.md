@@ -254,7 +254,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=DanHacks&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=0EA5E9&icon_color=8B5CF6&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanHacks&theme=radical" alt="GitHub Stats" width="100%" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanHacks&theme=radical&hide_border=true&background=0d1117&stroke=0EA5E9&ring=8B5CF6&fire=14B8A6&currStreakLabel=0EA5E9" alt="GitHub Streak" width="100%" />
@@ -268,7 +268,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DanHacks&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanHacks&theme=radical" alt="Profile Details" width="95%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanHacks&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanHacks&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanHacks&theme=radical" alt="Productive Time" />
 </div>
 
 ---
