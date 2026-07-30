@@ -21,7 +21,7 @@
 <!-- HERO SECTION -->
 <div align="center">
   <h2>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+scalable+solutions+for+African+businesses;Full-Stack+%7C+Backend+%7C+DevOps+Engineer;Python+%7C+React+%7C+Docker+%7C+Odoo+Expert;Enterprise+ERP+%7C+HMS+%7C+Real+Estate+%7C+Fintech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Scalable+solutions+for+African+businesses;Full-Stack+%7C+Backend+%7C+DevOps+Engineer;Python+%7C+React+%7C+Docker+%7C+Odoo+Expert;Enterprise+ERP+%7C+HMS+%7C+Real+Estate+%7C+Fintech" alt="Typing SVG" />
   </h2>
 </div>
 
