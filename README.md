@@ -222,7 +222,19 @@
         </p>
       </td>
     </tr>
-  </table>
+    <tr>
+      <td colspan="2" width="50%" valign="top">
+        <h3>SautiGen</h3>
+        <p><i>AI Song Generator</i></p>
+        <p>Generate full songs and instrumentals from a text prompt, lyrics, or a recorded melody &mdash; with automatic key/tempo detection and WAV export.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        </p>
+        <a href="https://github.com/DanHacks/Song-generator"><img src="https://img.shields.io/badge/Source-8B5CF6?style=flat-square&logo=github&logoColor=white" /></a>
+      </td>
+    </tr>
 </div>
 
 ---
