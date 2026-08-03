@@ -160,7 +160,7 @@
           <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
           <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" />
         </p>
-        <a href="https://hydan.heylaos.com"><img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+        <a href="https://heylaos.com"><img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=google-chrome&logoColor=white" /></a>
       </td>
       <td width="50%" valign="top">
         <h3>Hospital Management System (HMS)</h3>
@@ -172,7 +172,7 @@
           <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         </p>
-        <a href="https://hydan.heylaos.com"><img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+        <a href="https://hms.heylaos.com"><img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=google-chrome&logoColor=white" /></a>
       </td>
     </tr>
     <tr>
@@ -186,7 +186,7 @@
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
           <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
         </p>
-        <a href="https://hydan.heylaos.com"><img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+        <a href="https://keylist.heylaos.com"><img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=google-chrome&logoColor=white" /></a>
       </td>
       <td width="50%" valign="top">
         <h3>HYSAM Flash Tool</h3>
